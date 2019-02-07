@@ -91,11 +91,17 @@
      <Compile Include="Assets\Material\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
      <Compile Include="Assets\Material\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
      <Compile Include="Assets\Material\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
+     <Compile Include="Assets\Scripts\ActivateMe.cs" />
+     <Compile Include="Assets\Scripts\BringToFront.cs" />
      <Compile Include="Assets\Scripts\ClickToMovePlayer.cs" />
+     <Compile Include="Assets\Scripts\DeactivateMe.cs" />
+     <Compile Include="Assets\Scripts\DisplayManager.cs" />
      <Compile Include="Assets\Scripts\ObjectHighlight.cs" />
+     <Compile Include="Assets\Scripts\OpenUI.cs" />
      <Compile Include="Assets\Scripts\PlayerLook.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <Compile Include="Assets\Scripts\TextDisplay.cs" />
+     <Compile Include="Assets\Scripts\UiPanel.cs" />
      <None Include="Assets\Material\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Material\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Material\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
